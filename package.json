@@ -1,7 +1,7 @@
 {
   "name": "atom-slugify",
   "main": "./lib/atom-slugify",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Transform selected text into a slug [a-z0-9-]",
   "license": "MIT",
   "private": true,
