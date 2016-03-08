@@ -1,0 +1,14 @@
+{
+  "name": "atom-slugify",
+  "main": "./lib/atom-slugify",
+  "version": "0.0.0",
+  "description": "Transform selected text into a slug [a-z0-9-]",
+  "license": "MIT",
+  "private": true,
+  "repository": "https://github.com/everlaat/atom-slugify",
+  "engines": {
+    "atom": ">0.61.0"
+  },
+  "dependencies": {
+  }
+}
