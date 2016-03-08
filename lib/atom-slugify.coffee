@@ -8,7 +8,7 @@
 
 module.exports =
   activate: (state) ->
-    arom.commands.add 'atom-workspace', "slugify:slugify", ->
+    atom.commands.add 'atom-workspace', "slugify:slugify", ->
       editor = atom.workspace.getActiveTextEditor()
       return unless editor?
 
