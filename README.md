@@ -1,4 +1,6 @@
-# atom-slugify [![Build Status](https://secure.travis-ci.org/everlaat/atom-slugify.png?branch=master)](http://travis-ci.org/everlaat/atom-slugify)
+# atom-slugify
+
+![Slufigy Screengrab](/slugify-screengrab.gif)
 
 Transform selected text into a slug [a-z0-9-]
 
@@ -6,13 +8,10 @@ Transform selected text into a slug [a-z0-9-]
 Install the module with: `apm install atom-slugify`
 
 ## Documentation
-_(Coming soon)_
-
-## Examples
-_(Coming soon)_
-
-## Release History
-_(Nothing yet)_
+Mac:
+<kbd>CMD</kbd>+<kbd>-</kbd> <kbd>CMD</kbd>+<kbd>-</kbd>
+Windows:
+<kbd>CTRL</kbd>+<kbd>-</kbd> <kbd>CTRL</kbd>+<kbd>-</kbd>
 
 ## License
 Copyright (c) 2016 . Licensed under the MIT license.
